@@ -1,1 +1,3 @@
 This is chapter 3
+
+And this is an update.
